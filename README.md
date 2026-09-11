@@ -51,9 +51,8 @@ With a BSc background in Data Science and Artificial Intelligence, I enjoy the s
 
 ## 📊 GitHub Stats
 
-![Mahshid's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight)
+[![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YOUR_USERNAME&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight)
 
 
 ## 🔗 Let's Connect
