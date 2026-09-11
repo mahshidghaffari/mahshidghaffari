@@ -51,8 +51,9 @@ With a BSc background in Data Science and Artificial Intelligence, I enjoy the s
 
 ## 📊 GitHub Stats
 
-![Mahshid's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahshidghaffari&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahshidghaffari&layout=compact&theme=tokyonight)
+![Mahshid's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight)
 
 
 ## 🔗 Let's Connect
