@@ -48,14 +48,6 @@ With a BSc background in Data Science and Artificial Intelligence, I enjoy the s
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 
-## 📊 GitHub Stats
-
-![Mahshid's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahshidghaffari&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahshidghaffari&layout=compact&theme=tokyonight&cache_seconds=1800)
-
-
-
 
 ## 🔗 Let's Connect
 
