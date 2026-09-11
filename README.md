@@ -4,18 +4,6 @@ Frontend Engineer with building production Vue and Nuxt applications experience,
 
 With a BSc background in Data Science and Artificial Intelligence, I enjoy the space where frontend meets AI — building the interfaces that make LLMs, vector search, and ML models feel usable, fast, and trustworthy.
 
-## Git Stats I Can Pull From Git Itself
-
-- **Total commits:** `git rev-list --count HEAD`
-- **Contributions by year:** `git log --date=format:'%Y' --pretty=format:'%ad' | sort | uniq -c`
-- **Most active weekdays:** `git log --date=format:'%A' --pretty=format:'%ad' | sort | uniq -c | sort -nr`
-- **Commit count by author in this repo:** `git shortlog -sn --all`
-- **Lines added / removed:** `git log --numstat --pretty=\"\" | awk '{added+=$1; removed+=$2} END {print \"Added:\", added, \"Removed:\", removed}'`
-- **Recent activity summary:** `git log --since='30 days ago' --oneline --decorate`
-
-These are simple Git-native stats I can use locally without extra services, and they can be expanded later into automated README cards or scripts.
-
-
 
 # Technical Info
 
